@@ -13,7 +13,7 @@ namespace PocSync.Controllers
             return View();
         }
 
-        public ActionResult AboutPrueba()
+        public ActionResult AboutPrueba2()
         {
             ViewBag.Message = "Your application description page.";
 
