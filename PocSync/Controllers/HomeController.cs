@@ -20,7 +20,7 @@ namespace PocSync.Controllers
             return View();
         }
 
-        public ActionResult ContactPtrueba11111()
+        public ActionResult ContactPtrueba()
         {
             ViewBag.Message = "Your contact page.";
 
