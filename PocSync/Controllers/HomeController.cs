@@ -26,5 +26,12 @@ namespace PocSync.Controllers
 
             return View();
         }
+
+        public ActionResult AprendeDevOps()
+        {
+            ViewBag.Message = "Your application description page.";
+
+            return View();
+        }
     }
 }
